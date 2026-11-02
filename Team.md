@@ -2,3 +2,10 @@ Please add your initial commit here, for example (Tareq Darawshih        1230260
 
 Team Members:
 Tareq Darawshih        Student ID:  1230260        Team Role:  TBD
+
+
+
+
+
+Oghaid Mashaqi		Student ID: 1231100		Team Role: TBD
+

@@ -1,0 +1,3 @@
+Oghaid Mashaqi			1231100
+
+example_wallfollow.c has been compiled and ran successfully on the mms simulator as shown on the attached video
